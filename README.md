@@ -25,8 +25,12 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 1. **Dashboard** — KPIs, delivery trend chart, vendors needing attention with search/filters
 2. **Vendor Profile** — scorecard, sortable PO history, documents, communication log
-3. **Vendor Onboarding** — 4-step form with progress indicator
-4. **Anomaly Detection** — price mismatch & lead time delay flags with resolve/escalate actions
+   <img width="1890" height="920" alt="image" src="https://github.com/user-attachments/assets/a54b07b7-874c-4141-8874-cf2092a8e104" />
+
+4. **Vendor Onboarding** — 4-step form with progress indicator
+   <img width="751" height="872" alt="image" src="https://github.com/user-attachments/assets/dbe5577f-1177-489e-8019-c9b4abcedfab" />
+
+6. **Anomaly Detection** — price mismatch & lead time delay flags with resolve/escalate actions
 
 ## Anomaly Thresholds
 
