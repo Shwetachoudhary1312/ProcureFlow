@@ -18,6 +18,8 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
+<img width="1895" height="934" alt="image" src="https://github.com/user-attachments/assets/9f697751-d101-4633-a2a2-2b73023bae7c" />
+
 
 ## Screens
 
